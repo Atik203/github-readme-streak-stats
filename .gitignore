@@ -12,12 +12,11 @@ cache/
 .DS_Store
 
 # Environment
-.env
 .env*.local
 .php-version
 DOCKER_ENV
 docker_tag
 
 # IDE
-.vscode/
 .idea/
+config.bat
